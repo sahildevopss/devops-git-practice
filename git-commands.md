@@ -119,4 +119,11 @@ Example:
 ```bash
 git log --oneline
 ```
+### git diff
 
+What it does:
+Shows changes not yet staged.
+
+Example:
+
+git diff
