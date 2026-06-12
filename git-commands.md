@@ -127,3 +127,12 @@ Shows changes not yet staged.
 Example:
 
 git diff
+
+### git show
+
+What it does:
+Displays details of a commit.
+
+Example:
+
+git show
