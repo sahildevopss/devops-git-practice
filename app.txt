@@ -1,1 +1,2 @@
 work in progress
+trying git reset 1st commit
