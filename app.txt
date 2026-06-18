@@ -1,3 +1,4 @@
 work in progress
 trying git reset 1st commit
 git reset 2nd commit
+git reset 3rd commit
