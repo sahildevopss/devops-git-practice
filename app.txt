@@ -4,3 +4,4 @@ git reset 2nd commit
 git reset 3rd commit
 Git reset mixed 1st commit
 Git revert coomit X
+Git revert test Y
